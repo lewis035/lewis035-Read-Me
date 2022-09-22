@@ -5,17 +5,12 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **many more projects!**
-
-- 🤝 I’m looking for help with **finding projects to work on**
-
 - 💬 Ask me about **Ruby/Rails/HTML/CSS**
 
 - 📫 How to reach me **lewisangus35@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jJn-mkQd_rvHOYJQg0fEXuSHKJvGPNqT/view?usp=sharing](https://drive.google.com/file/d/1jJn-mkQd_rvHOYJQg0fEXuSHKJvGPNqT/view?usp=sharing)
 
-- ⚡ Fun fact **I'm very tall**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
